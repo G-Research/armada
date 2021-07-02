@@ -20,11 +20,11 @@ require (
 	github.com/go-openapi/swag v0.19.8 // indirect
 	github.com/go-openapi/validate v0.19.7 // indirect
 	github.com/go-redis/redis v6.15.9+incompatible
-	github.com/gogo/protobuf v1.3.1
+	github.com/gogo/protobuf v1.3.2
 	github.com/golang/protobuf v1.4.3
 	github.com/gomodule/redigo v2.0.0+incompatible // indirect
 	github.com/google/martian v2.1.0+incompatible
-	github.com/grpc-ecosystem/go-grpc-middleware v1.1.0
+	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0
 	github.com/grpc-ecosystem/grpc-gateway v1.15.0
 	github.com/hashicorp/golang-lru v0.5.3 // indirect
@@ -34,7 +34,6 @@ require (
 	github.com/kr/text v0.2.0 // indirect
 	github.com/lib/pq v1.3.0
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/mitchellh/gox v1.0.1 // indirect
 	github.com/mitchellh/mapstructure v1.1.2
 	github.com/nats-io/nats-server/v2 v2.1.6 // indirect
 	github.com/nats-io/nats-streaming-server v0.17.0 // indirect
